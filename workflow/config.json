@@ -1,0 +1,5 @@
+{
+  "training_seed": null,
+  "gail_epochs": 60,
+  "torch_threads": 8
+}
